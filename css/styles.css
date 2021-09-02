@@ -64,13 +64,13 @@ p{
 
 .bottom-cloud{
   position: absolute;
-  left: 30%;
+  left: 25%;
   bottom: 35%;
 
 }
 .top-cloud{
   position: absolute;
-  right: 28%;
+  right: 23%;
   top: 15%;
 }
 .skill-row{
