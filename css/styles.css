@@ -117,7 +117,7 @@ p{
    padding: 23px;
    background-color: #66BFBF;
    text-decoration: none;
-   display: inline-block;
+   display: inline;
    cursor: pointer;
    text-align: center;
 }
